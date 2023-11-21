@@ -1,5 +1,5 @@
 # Bayesian-Project
-
+presentazione 24/11 https://www.overleaf.com/project/65521ef6a20cdec448e00397
 TO DO LIST
 0) mail
 1) palette, labels plots  [Azzurro: #3399ff, Arancione: #f4963e, Rosa: #f94e56, Verde: #62a87c]
