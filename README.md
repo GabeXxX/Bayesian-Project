@@ -7,5 +7,7 @@ TO DO LIST
 4) sentire come presenta la Stefy (Poca ansia (;)
 
 
+
+
 1) riguardare codice constrained
 2) allineamento dati
