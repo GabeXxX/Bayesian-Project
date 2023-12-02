@@ -4,7 +4,7 @@ palette, labels plots  [Azzurro: #3399ff, Arancione: #f4963e, Rosso-Fragola: #f9
 
 TO DO LIST
 1. studiare e fare allineamento:
-  1.1 capire come si fa in maniera basic
+  1. 1capire come si fa in maniera basic
   1.2 farlo sulle nostre curve in maniera basic
   1.3 capire come si fa per via bayesiana e se c è tempo farlo bayesianamente
 
@@ -16,11 +16,3 @@ TO DO LIST
   3.1 controllare il codice
   3.2 aggiornarlo se serve, commentare/aggiungere descrizioni
   3.3 aggiornare github con le versioni riviste e condividere ai boss la repository
-
-
-
-
-
-
-1) riguardare codice constrained
-2) allineamento dati
