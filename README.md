@@ -17,6 +17,8 @@ Proveremo ad utilizzare ‘fdasrvf’ su python o in alternativa direttamente su
   2.1 aprire un nuovo script jupyter notebook, importare la classe che abbiamo creato dal modello definitivo
   2.2 testarlo su vari kernel della prior, aumentando il numero di covariate
 
+ - For now: tested unconstrained model on simple white noise kernel, builded a function that allow to scale testing easily on different kernel with some error statistics
+
 4. risistemare il codice prodotto finora:
   3.1 controllare il codice
   3.2 aggiornarlo se serve, commentare/aggiungere descrizioni
