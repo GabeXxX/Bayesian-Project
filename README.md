@@ -7,12 +7,13 @@ TO DO LIST
   1.1capire come si fa in maniera basic
   1.2 farlo sulle nostre curve in maniera basic
   1.3 capire come si fa per via bayesiana e se c è tempo farlo bayesianamente
+Starting Point: https://cran.r-project.org/web/packages/fdasrvf/fdasrvf.pdf
 
-2. testare a fondo l'unconstrained model:
+3. testare a fondo l'unconstrained model:
   2.1 aprire un nuovo script jupyter notebook, importare la classe che abbiamo creato dal modello definitivo
   2.2 testarlo su vari kernel della prior, aumentando il numero di covariate
 
-3. risistemare il codice prodotto finora:
+4. risistemare il codice prodotto finora:
   3.1 controllare il codice
   3.2 aggiornarlo se serve, commentare/aggiungere descrizioni
   3.3 aggiornare github con le versioni riviste e condividere ai boss la repository
