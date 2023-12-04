@@ -8,6 +8,7 @@ TO DO LIST
   1.2 farlo sulle nostre curve in maniera basic
   1.3 capire come si fa per via bayesiana e se c è tempo farlo bayesianamente
 Starting Point: https://cran.r-project.org/web/packages/fdasrvf/fdasrvf.pdf
+
 Per ora: abbiamo provato ad utilizzare la libreria di python "fdasrsf" analogo di ‘fdasrvf’ per R ma la funzione che fa alignment in framework bayesiano allinea due curve alla volta
 Proveremo ad utilizzare ‘fdasrvf’ su python o in alternativa direttamente su R
 
