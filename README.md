@@ -5,7 +5,7 @@ Presentation 24/11: https://www.overleaf.com/project/65521ef6a20cdec448e00397
 ### Every file is named as "TaskNumber_Version_Task", to ensure continuity.
 
 ### We invite you to rely majorly on the last available version of every file 
-(002_03_Unconstrained_Model, 003_02_Constrained_Model)
+(002_3_Unconstrained_Model, 003_2_Constrained_Model)
 
 ## To do list
 ### Alignment:
