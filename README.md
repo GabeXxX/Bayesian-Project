@@ -1,12 +1,13 @@
 # Bayesian-Project
-presentation 24/11 https://www.overleaf.com/project/65521ef6a20cdec448e00397
 
-## Every file is named as "TaskNumber_Version_Task", to ensure continuity.
+Presentation 24/11: https://www.overleaf.com/project/65521ef6a20cdec448e00397
 
-## We invite you to rely majorly on the last available version of every file 
+### Every file is named as "TaskNumber_Version_Task", to ensure continuity.
+
+### We invite you to rely majorly on the last available version of every file 
 (002_03_Unconstrained_Model, 003_02_Constrained_Model)
 
-TO DO LIST
+### To do list
 1. studiare e fare allineamento:
 \\1.1capire come si fa in maniera basic
   1.2 farlo sulle nostre curve in maniera basic
