@@ -19,7 +19,7 @@ Per ora: abbiamo provato ad utilizzare la libreria di python "fdasrsf" analogo d
 Proveremo ad utilizzare ‘fdasrvf’ su python o in alternativa direttamente su R
 
 
-### Testing:
+### Testing:  
 1. aprire un nuovo script jupyter notebook, importare la classe che abbiamo creato dal modello definitivo
 2. testarlo su vari kernel della prior, aumentando il numero di covariate
 
