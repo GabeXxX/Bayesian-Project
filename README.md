@@ -25,4 +25,4 @@ Proveremo ad utilizzare ‘fdasrvf’ su python o in alternativa direttamente su
 
 For now: tested unconstrained model on simple white noise kernel, builded a function that allow to scale testing easily on different kernel with some error statistics
 
-4. (DONE) code checking
+### (DONE) code checking
