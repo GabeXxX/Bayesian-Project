@@ -10,7 +10,8 @@ Presentation 24/11: https://www.overleaf.com/project/65521ef6a20cdec448e00397
 # To do list
 ### Alignment:
 1. capire come si fa per via bayesiana e se c è tempo farlo bayesianamente
-### Trying other smoothing methods
+
+### Try other smoothing methods
 
 ### T0 estimation
 
